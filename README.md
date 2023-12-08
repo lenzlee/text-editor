@@ -20,11 +20,11 @@ Code was provided by our cohort instructors and TAs.
 
 * Screenshot 1
 
-![Text Editor Screenshot 1](./screenshots/screenshot1.png)
+![Text Editor Screenshot 1](./images/screenshot1.png)
 
 * Screenshot 2
 
-![Text Editor Screenshot 2](./screenshots/screenshot2.png)
+![Text Editor Screenshot 2](./images/screenshot2.png)
 
 ## Contact Me
 Lenzlee Wheeler at: https://github.com/lenzlee 
