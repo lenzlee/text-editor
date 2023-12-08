@@ -8,14 +8,23 @@ This is a class project so we are submitting the same code.
 
 ## URLs Submitted:
 
-* My GitHub Repo URL: 
+* URL of the functional, deployed application on Heroku: https://lwtexteditorapp-bd57a311de8c.herokuapp.com/ 
 
-* URL of the functional, deployed application on Heroku: 
+* My GitHub Repo URL: https://github.com/lenzlee/text-editor 
 
 ## References and Resources: 
 
 Code was provided by our cohort instructors and TAs.
 
+## Screenshots:
+
+* Screenshot 1
+
+![Text Editor Screenshot 1](./screenshots/screenshot1.png)
+
+* Screenshot 2
+
+![Text Editor Screenshot 2](./screenshots/screenshot2.png)
 
 ## Contact Me
 Lenzlee Wheeler at: https://github.com/lenzlee 
